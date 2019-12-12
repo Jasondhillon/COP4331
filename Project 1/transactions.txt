@@ -1,0 +1,5 @@
+2650920192309, 1111,  "Top Secret Twenty One - Janet Evanovich", $8.99, 3, 0%, $26.97, 09/22/19 23:24:12 EDT
+2650920192309, 234,  "The Bourne Identity - Robert Ludlum", $12.95, 5, 10%, $58.28, 09/22/19 23:24:12 EDT
+2981020191110, 12123,  "X - Sue Grafton", $9.99, 1, 0%, $9.99, 10/25/19 11:29:53 EDT
+2981020191110, 88888,  "Terminal City - Linda Fairstein", $10.95, 2, 0%, $21.9, 10/25/19 11:29:53 EDT
+2981020191110, 11234,  "Tricky Twenty-Two - Janet Evanovich", $12.95, 8, 10%, $93.24, 10/25/19 11:29:53 EDT

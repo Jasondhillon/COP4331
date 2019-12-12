@@ -1,0 +1,32 @@
+<web-app>
+
+   <display-name>
+      CNT 4714 Fall 2019 Servlet
+   </display-name>
+
+   <description>
+      Project 4 multi-tier application
+   </description>
+
+   <servlet>
+      <servlet-name>database</servlet-name>
+
+      <description>
+            Sends request to MySQL database
+      </description>
+
+      <servlet-class>
+         result.database
+      </servlet-class>
+   </servlet>
+
+   
+   <servlet-mapping>
+      <servlet-name>database</servlet-name>
+      <url-pattern>/database</url-pattern>
+   </servlet-mapping>
+
+
+
+</web-app>
+
